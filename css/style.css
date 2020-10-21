@@ -59,6 +59,9 @@ main p{
 .henriette{
     color: #fe6a3e;
 }
+.henriette a{
+    color: #fe6a3e;
+}
 .ita{
     font-style: italic;
 }
