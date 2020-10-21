@@ -16,6 +16,7 @@ body{
     margin-right: 30px;
 }
 
+/* aside */
 aside{
     float: right;
     position: sticky;
@@ -23,30 +24,26 @@ aside{
     width: 20%;
     padding-left: 4%;
 }
-
 h1{
     font-size: 15px;
     font-weight: 500;
 }
-
 h2{
     color:black;
     font-size: 12px;
     font-weight: 100;
 }
-
 h2 a{
     text-decoration-line: underline;
 }
-
 audio{
     width: 100%;
 }
 
+/*main*/
 main{
     width: 77%;
 }
-
 .entretien{
     font-size: 40px;
     line-height: 50px;
@@ -56,19 +53,17 @@ main{
     visibility: hidden;
 }
 
+/*text*/
 .henriette{
     color: #fe6a3e;
 }
-
 .ita{
     font-style: italic;
 }
-
 a{
     color: black;
     text-decoration: none;
 }
-
 
 /* Tooltip container */
 .tooltip {
